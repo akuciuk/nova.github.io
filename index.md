@@ -1,4 +1,4 @@
-This is just a sample of simple graph
+This is just a sample of simple graph v2
 ```mermaid
   graph TD;
       A-->B;
