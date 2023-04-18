@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: just-the-docs/just-the-docs
 title: Nova Documentation
 description: Bookmark this to keep an eye on my project updates!
 markdown: kramdown
