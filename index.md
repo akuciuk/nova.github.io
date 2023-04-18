@@ -7,6 +7,20 @@ This is just a sample of simple graph v2
       C-->D;
 ```
 
+OneDigraph
+digraph G {
+  "Welcome" -> "To"
+  "To" -> "Web"
+  "To" -> "GraphViz!"
+}
+Diraph samples
+```digraph G {
+  "Welcome" -> "To"
+  "To" -> "Web"
+  "To" -> "GraphViz!"
+}
+```
+
 
 Here is the Sequence diagram
 -----
