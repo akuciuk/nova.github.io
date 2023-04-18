@@ -1,7 +1,7 @@
 About
 -----
 
-| Contact  |  Responsibility  | Email  |   |   |
+| Contact  |  Responsibility  | Email  |
 |---|----|---|---|---|
 | ZD  | Technical   | zd@com.at  |
 | JB  | Business   | jb@com.at  |
